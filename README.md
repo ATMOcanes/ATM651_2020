@@ -10,7 +10,7 @@ Students will `Fork` this `repo` and `Clone` it to their machines.
 
 * [Mapes IDV collection - browse it](https://weather.rsmas.miami.edu/repository/entry/show?entryid=115a4ff0-10de-4fba-86d7-66cd42d6d8de)
 
-* [New: trajectories in IDV](https://ams.confex.com/ams/98Annual/webprogram/Paper337280.html) see [3-mintue YouTube](https://www.youtube.com/watch?v=m0DwH--5GP8)
+* [New: trajectories in IDV](https://ams.confex.com/ams/98Annual/webprogram/Paper337280.html) see [3-minute YouTube](https://www.youtube.com/watch?v=m0DwH--5GP8)
 
 * Compute some flow dynamics with a Jupyter/Python toy model like [these vertical-plane models](https://github.com/ATMOcanes/ATM663_convection_meso/tree/master/Resources/Notebooks) or [this shallow water model](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Notebooks/SWEmodel.ipynb)
 
@@ -19,6 +19,6 @@ Students will `Fork` this `repo` and `Clone` it to their machines.
 
 * Other aspects of MERRA2, inclusing aerosols or so many other things: see all the collections and my instructions on how to open them in IDV or Panoply [here](https://hyp.is/NuATNvQBEemtxQPBlKyywQ/gmao.gsfc.nasa.gov/pubs/docs/Bosilovich785.pdf).
 
-  * On downstream development and Rossby wave dispersion (8.33 of Wallace and Hobbs, LMT exercise 1.5, make your own [time-longitude plots from data](https://www.esrl.noaa.gov/psd/map/time_plot/)
+* On downstream development and Rossby wave dispersion (8.33 of Wallace and Hobbs, LMT exercise 1.5, make your own [time-longitude plots from data](https://www.esrl.noaa.gov/psd/map/time_plot/)
   
 
