@@ -2,7 +2,7 @@
 ## U of Miami, RSMAS, ATM department 
 #### mapes AT miami DOT edu
 
-Students will `Fork` this `repo` and `Clone` it to their machines. 
+Students may `Fork` this `repo` and `Clone` it to their machines. 
 
 ### Some resources 
 
