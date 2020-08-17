@@ -1,8 +1,8 @@
-# Calendar (reported) 
+# Calendar (planned) 
 
-Dates	|Monday	|Wednesday
+Dates	|Mon: Phenomena, curiosity	|Wed: Frameworks & treatments 
 -------|------------- | ------------- 
-Aug 17-19 |Welcome, introductions. Software. MKS units. Assign to read W&H Chapter 1	|
+Aug 17-19	|Welcome, introductions. Physical units and quantities. W&H Chapter 1	|Math bookkeeping tools. Coordinates and functions. Sets. Vectors. Graph theory, networks, causality. 
 24-26	|Current weather. Answer W&H Ch1 letter questions.	|Vector fields. Sums, differences, dot and cross product. Kinematics. 
 31-02 Sep	|Transport and motion. Tracers, trajectories vs. streamlines.  	|Budgets in spatial boxes. Flux and its convergence. Mass and specific ___.  Advection. Diffusion. 
 7-9	|LABOR DAY 	|Introduce stochasticism. Dynamical systems and chaos. Random variables. |
