@@ -3,7 +3,7 @@
 Dates	|Mon: Phenomena, curiosity	|Wed: Frameworks & treatments 
 -------|------------- | ------------- 
 Aug 17-19	|Welcome, introductions. Physical units and quantities. W&H Chapter 1	|Math bookkeeping tools. Coordinates and functions. Sets. Vectors. Graph theory, networks, causality. Random variables. 
-24-26	|Current weather. Answer W&H Ch1 questions in class.	|[Sets](https://en.wikipedia.org/wiki/Set_(mathematics)#Set-builder_notation) and the conditional symbol. [Vectors](https://www.feynmanlectures.caltech.edu/I_11.html). Vector fields. Sums, differences, dot and cross product. Kinematics. 
+24-26	|Current weather. Answer W&H Ch1 questions in class.	|[Sets](https://en.wikipedia.org/wiki/Set_(mathematics)#Set-builder_notation) and the conditional symbol. [Vectors](https://www.feynmanlectures.caltech.edu/I_11.html). Vector fields. Sums, differences, dot and cross product. [Kinematics](https://colab.research.google.com/drive/1lOA8tk9EFLLPIfXM6Q6b_yihDEhve193?usp=sharing) homework. 
 31-02 Sep	|Transport and motion. Tracers, trajectories vs. streamlines.  	|Budgets in spatial boxes. Flux and its convergence. Mass and specific ___.  Advection. Diffusion. 
 7-9	|LABOR DAY 	|Introduce stochasticism. Dynamical systems and chaos. Random variables. |
 |14-16	|Thermo and profiles, stability and waves.	|Hydrostatic balance. Potential temperature, entropy, static energy.
