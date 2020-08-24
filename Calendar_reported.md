@@ -3,7 +3,7 @@
 Dates	|Monday	|Wednesday
 -------|------------- | ------------- 
 Aug 17-19 |Welcome, introductions, syllabus. Software. MKS units. Assign to read W&H Chapter 1 [Records](https://github.com/ATMOcanes/ATM651_2020/tree/master/Class_sessions/2020-08-17) | TC check-in. Whiteboard: MKS units, coordinates, functions, derivatives.  [Records](https://github.com/ATMOcanes/ATM651_2020/tree/master/Class_sessions/2020-08-19) 
-24-26	||
+24-26	|Reiterate assignment to read W&H Chapter 1 and ponder all its end-of-chapter questions: we will go over all those questions verbally soon. Discuss kinematic "ingredients" of flow fields and assign [Colab notebook](https://colab.research.google.com/drive/1uY31iYu5dZ5E9F-UoYrpWQf4UnJLvoKG?usp=sharing#scrollTo=IWjRtVAGK6Fk).|
 31-2 Sep||
 7-9	|LABOR DAY |
 |14-16	||
