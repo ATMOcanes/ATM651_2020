@@ -8,13 +8,13 @@ Aug 17-19	|Welcome, introductions. Physical units and quantities. W&H Chapter 1	
 7-9	|LABOR DAY 	| WH ch7 **read through 7.2.6**, talk through students answers to **7.5 a-k, do problems 7.6-7.10**. Transport lab exercise for vorticity (trajectories, tendencies).|
 |14-16	|Interacting vortices (mutual steering) |Vorticity interactions principles, implications for predictability and statistics. **Show (7.2) for a circular area using (7.4). Assigned reading: section 7.2.9. & bring time-stamped questions (1 per student) on vorticity films (parts 1&2) [here](http://web.mit.edu/hml/ncfmf.html).** Vortex-interactions lab exercise.
 21-23	|Balanced flows, thermal wind **Reading: WH 7.2.4 - 7.2.7**	|Thermal wind. **Elicit student answers (or questions) to 7.5 l-z.	Collect (midnight) HW2: Force-balanced wind problems 7.19, 7.21, 7.22, 7.24, 7.42; Thermal wind problems 7.5m, 7.11, 7.25, 7.26** 	
-28-30	| Vertical dimension and thermo: stability Potential temperatures vs. entropy vs. static energy.|The closed set of primitive equations (PE). 
-5-7 Oct	||
-12-14	| | 
-19-21	|PBL phenomena. Turbulence, friction, fluxes. Cloud-topped PBL types.	|Mixed layers and slight deviations (quasi-neutrality of fast instabilities). Moist conserved variables. 
-26-28	|Deeper convection and clouds and storms 	|Lifted-parcel processes. Radiative heating/cooling. T budgets of moist weather in MERRA2. 
-2-4 Nov	|Review for exam	|Exam 
-9-11	|Midlatitude cyclones and fronts	|Decomposing flows (primary/secondary, geo/ageo, rotational/divergent). 
-16-18	|Ageostrophic winds and cloudy weather systems	|Quasi-balance concepts, glimpse of QG omega equation.
+28-30	| Vertical dimension and thermo: PV (**read 7.2.10**) as the ultimate conserved variable. Show its conversion to vorticity as stratosphere descends into troposphere. |The complete, formally closed set of primitive equations (PE). **Reading: through 7.3.5**.
+5-7 Oct	|**HW3**: How does hot air rise or cool air sink (or warm and cool core vortices form) in the Primitive Equations? The concept of instability, exemplified in vertical convection. | Vertical instability and convection: diagrams 
+12-14	|Exam review: vocabulary - math - concepts - sketches | Exam during class time slot; continuation as needed
+19-21	| Project idea fest | Budgets of equation sets: MERRA2 (lab)
+26-28	| 	| 
+2-4 Nov	|	| 
+9-11	|	| 
+16-18	|	|
 Nov 23	|(Labor day makeup)	|(xxx Classes Ended Monday xxx)
-30-4 Dec	|                        Finals (presentations)  Online, by arrangement | Finals (presentations)  Online, by arrangement
+30-4 Dec	|      Finals (presentations)  Online, by arrangement | Finals (presentations)  Online, by arrangement
