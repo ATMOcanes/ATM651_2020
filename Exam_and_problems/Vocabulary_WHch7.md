@@ -16,12 +16,13 @@ Deformation | | |
 Vorticity | | | 
 Divergence | | | 
 Shear | | | 
-circulation (the area-integral of vorticity, equal to line integral of tangential wind by...) | | | 
-...Stokes' theorem | | | 
-Green's theorem (same for divergent wind)  | | | 
-rate of expansion of the area (horizontal divergence is 1/A dA/dt)  | | | 
+Circulation | | the area-integral of vorticity, equal to line integral of tangential wind by Stokes' Theorem | 
+Stokes' theorem | | | 
+Green's theorem | | as above but for divergence | 
+rate of expansion of area | | (horizontal divergence is 1/A dA/dt)  | 
 Hyperbolic flow (pure deformation) | | | 
-axis of dilatation (or stretching), axis of contraction | | | 
+axis of dilatation (or stretching) | | |
+axis of contraction | | | 
 frontal zone | | | 
 passive tracer | | | 
 conserved, conservative tracer | | | 
@@ -58,15 +59,15 @@ Laplacian operator | | |
 orders of magnitude | | | 
 isobars | | | 
 geopotential height contours | | | 
-pressure surfaces (isobaric surfaces in 3D, isobars in a 2D plane)  | | | 
-constant of proportionality | | | 
+pressure surfaces (or isobars in 2D)  | |plane or line of constant p | 
+constant of proportionality | | aka "coefficient" | 
 density | | | 
 Mass | | | 
 sea level | | | 
 geoid | | | 
-Temporal variations = time mean + anomalies | | | 
+anomalies | |total series minus TIME average, might be a cyclic (seasonal "climatological") average | 
 shear stress | | | 
-rate of vertical exchange (flux or transport) | | | 
+rate of vertical exchange | |flux or transport is what "exchange" means | 
 scales of motion | | | 
 unresolved | | | 
 vertical profile | | | 
@@ -74,7 +75,7 @@ mixing | | |
 vertical wind shear | | | 
 boundary layer | | | 
 horizontal equation of motion | | | 
-terms (in equation): local rate of change, tendencies | | | 
+local rate of change = sum of tendencies | |Eulerian form of equations, like our numerical models are built on| 
 empirical | | | 
 frictional drag (drag coefficient) | | | 
 magnitude | | | 
@@ -84,7 +85,8 @@ wind vector, components, vectorial form | | |
 scalar | | | 
 speed (a scalar, as opposed to velocity, a vector) | | | 
 surface layer | | | 
-Lagrangian (in frame of reference of air parcels) vs. Eulerian (local) time derivative | | | 
+Lagrangian (in frame of reference of air parcels) time derivative | | |
+Eulerian (local) time derivative | | | 
 parcel | | | 
 Geostrophic | | | 
 baroclinic | | | 
@@ -93,31 +95,33 @@ cyclone, anticyclone | | |
 timescale | | | 
 wind field (scalar fields, vector fields) | | | 
 del operator (nabla is the symbol). | | | 
-Gradient of scalar field, divergence of vector field, curl of vector field (in 3D only) | | | 
+Gradient of scalar field | | |
+divergence of vector field | | |
+curl of vector field (in 3D only) | | | 
 Laplacian (divergence of gradient) | | | 
 normal (orthogonal) | | | 
 balance | | | 
-parallel, perpendicular (dot product, inner product, projection) | | | 
+parallel, perpendicular | | (dot product = inner product = projection) | 
 tighter/looser spacing (of contours) | | | 
-"required" to balance: brain on! subtle argument is being implied! | | | 
+"required" to balance: | | brain on! subtle argument is being implied! | 
 opposite | | | 
-forward direction (downstream, downwind, downshear) | | | 
-sub-geostrophic, super-geostrophic (about speed of true wind) | | | 
-ageostrophic (residual = actual minus approximation) | | | 
-non-hydrostatic pressure (residual = actual minus approximation) | | | 
+forward direction | | (downstream, downwind, downshear) | 
+sub-geostrophic, super-geostrophic | | (speed of true wind vs. geostrophic wind) | 
+ageostrophic | | a *residual* = actual minus approximation | 
+non-hydrostatic pressure | | " " " |
 cross-isobar flow | | | 
 Ekman drift | | | 
-free atmosphere (above PBL) | | | 
+free atmosphere | | above PBL | 
 turbulent | | | 
 small-scale | | | 
 wind-driven currents (in ocean) | | | 
 increasing/decreasing depth | | | 
-higher/lower (altitude, or value of some other number? careful!) | | | 
-bigger or larger/smaller (size of a number, abs. value) | | | 
-greater/lesser (on the number line, which includes negative numbers) | | | 
+higher/lower | | (altitude, or value of some other number? careful!) | 
+bigger or larger/smaller | | (size of a number, abs. value) |  
+greater/lesser | | (on the number line, which includes negative numbers) | 
 warmer/colder (T is greater/lesser) | | | 
-stronger, weaker (ALWAYS a comparison vs. something, there is no strong/weak) | | | 
-predominantly (well over 50%)  | | | 
+stronger, weaker | | (ALWAYS a comparison vs. something, there is no absolute strong/weak) | 
+predominantly | | (well over 50%)  | 
 Ekman spiral | | | 
 regime (a word to be careful about!) | | | 
 force balance | | | 
@@ -142,15 +146,15 @@ colatitude | | |
 absolute vorticity | | | 
 relative vorticity | | | 
 extratropical | | | 
-dominated (do you merely mean predominant? Or is it really suppressing a competitor?) | | | 
-amplifying/decaying (multiplicative factor greater/less than 1) | | | 
-weather systems (boundaries are the essence of systems, is there one?) | | | 
+dominated | | (do you merely mean predominant? Or is it really suppressing a competitor?) | 
+amplifying/decaying | | (multiplicative factor greater/less than 1) | 
+weather systems | | (boundaries are the essence of systems, is there one?) | 
 numerical values | | | 
 property (a very general term) | | | 
-nondivergent, nondivergent (or barotropic) form of the vorticity equation | | | 
+nondivergent (or barotropic) form of the vorticity equation | | | 
 finite difference | | | 
 algorithm | | | 
-estimated, estimate, estimates: interpreted imperfect data (signaling carefulness) | | | 
+estimated, estimate, estimates | | interpreted imperfect data (the word signals carefulness) |
 inverting (a function) - inverse Laplacian for instance | | | 
 time step | | | 
 field (of scalars, of vectors) | | | 
@@ -181,7 +185,8 @@ evolution (very general, for all of the above) | | |
 steering flow: the wind required for propagation to be advective in nature | | | 
 converted (one thing goes up, the other down, when combination is conserved) | | | 
 scale (logarithmic concept like cm-scale, m-scale, km-scale); vs. size (linear)  | | | 
-stationary (waves), steady (in time), steady-state (equation with d/dt crossed out) | | | 
+stationary (waves), steady (in time) | | | 
+steady-state (equation with d/dt crossed out) | | | 
 planetary waves, synoptic scales, convective scale, mesoscale | | | 
 climatological, anomalous is the residual (anom = total-climo) | | | 
 mean, average. climatology is seasonal (mean of each calendar month) | | | 
@@ -191,20 +196,20 @@ beta effect | | |
 Rossby waves | | | 
 divergence term (in absolute vorticity equation) | | | 
 dissipation (energy view of drag or friction, scalar not vector) | | | 
-linear term, contains no products or curvaceous functions of variables. Derivative is constant. | | | 
-nonlinear term (a product like flux or advection; or a curvaceous function). Derivative not constant. | | | 
+linear | | term or equation contains no products or curvaceous functions of variables. Derivative is constant. |
+nonlinear term | | a product like flux or advection; or a curvaceous function. Derivative not constant. | 
 deflection | | | 
 role (narratives are the heart of science, don't be shy but be conscious!) | | | 
-prescribed, specified, fixed, imposed. a "forcing" term (to see "response")  | | | 
-divergent, nondivergent, irrotational, rotational (vector field decomposition) | | | 
+prescribed, specified, fixed, imposed | | a "forcing" term (to see "response")  | | 
+divergent, nondivergent, irrotational, rotational | | (vector field decomposition) | 
 reconstruction (the opposite of decomposition) | | | 
 asymmetry / symmetry (important concepts for clever arguments sometimes) | | | 
-intense (see strong/weak: always a comparison like more/less intense) | | | 
-Rossby waves can be defined more generally as waves propagating horizontally in the presence of a gradient of potential vorticity | | | 
+intense (always a comparitive, like strong) | | | 
+Rossby waves | | can be defined more generally as waves propagating horizontally in the presence of a gradient of potential vorticity | 
 Ertel's or isentropic potential vorticity | | | 
-incursions of stratospheric air into the troposphere, conversion of static stability to spin | | | 
+incursions of stratospheric air into the troposphere | | conversion of static stability to spin |
 prognostic vs. diagnostic equations  | | | 
-potential temperature surfaces, isentropic, isentropes (as contours) | | | 
+potential temperature surfaces, isentropic, isentropes | | | 
 primitive equations | | | 
 terrain | | | 
 first law of thermodynamics, conservation of energy, thermodynamic energy equation | | | 
@@ -227,7 +232,7 @@ cool core vs. warm core (KNOW HOW TO SKETCH THESE! LET'S PRACTICE)  | | |
 frontal zone  | | | 
 tropical convection | | | 
 rain belts such as the ITCZ | | | 
-compensated, compensation, cancellation (just a fact, or a "role" played in a stabilized system?)  | | | 
+compensated, compensation, cancellation | | (just a fact, or a "role" played in a stabilized system?)  | 
 saturated air | | | 
 continuity equation, mass continuity | | | 
 expand and contract (spatial: volume increase/decrease) | | | 
@@ -235,15 +240,15 @@ atmospheric boundary layer, PBL, BL | | |
 surface layer (very lowest part of BL) | | | 
 frictional convergence (of down-gradient cross-isobar flow) | | | 
 gyres (in ocean; cyclonic or anticyclonic) | | | 
-Ekman drift (net motion orthogonal to main geostrophic flow) | | | 
+Ekman drift | | net friction-caused transport, orthogonal to main geostrophic flow) |  
 primary flow (most of the momentum) vs. secondary flow (smaller but important) | | | 
 upwelling, down-welling | | | 
 coastal upwelling, equatorial upwelling | | | 
 top of the atmosphere (where satllites fly and look down from) | | | 
 external wave, internal wave | | | 
-free surface (of water; "top of atmosphere" is sort of one, sometimes) | | | 
+free surface | | (of water; "top of atmosphere" is sort of one, sometimes) | 
 parameterized (often interactive rather than prescribed or imposed or specified) | | | 
-treated as (mathematical form is assumed; like in "parametric statistics")  | | | 
+treated as (mathematical form is assumed; like in parametric statistics)  | | | 
 prognostic equations, diagnostic equations | | | 
 numerical, integration | | | 
 meridians, latitude circles | | | 
@@ -253,44 +258,48 @@ spatial resolution | | |
 general circulation | | | 
 baroclinic instability | | | 
 general circulation models (GCM's) | | | 
-westerly momentum, zonal momentum u (per unit mass, of course) | | | 
+specific westerly momentum, zonal momentum per unit mass | u (m/s) | | 
+zonal flux of volume | u (m/s) | | 
 tropics, subtropics, middle latitudes, extratropics, subpolar, polar | | | 
 Kinetic Energy, Potential energy | | | 
 cross-isobar flow | | | 
 subgeostrophic/ super-geostrophic | | | 
 imbalance (balance)  | | | 
-generation (of energy), vs. conversion (if KE+PE is conserved) | | | 
+generation (of energy) | | | 
+vs. conversion (if KE+PE is conserved) | | | 
 trade winds | | | 
 Hadley cell | | | 
-branch (of a circulation): half span of it (like upper vs. lower levels) | | | 
+branch (of a circulation) | | half span of it (like upper vs. lower levels) | 
 Closed circulations (or complete circulations) | | | 
-thermally direct (warmer air rises)/ indirect (momentum-driven, against buoyancy force) | | | 
+thermally direct circulation | | (warmer air rises) |  
+thermally indirect | | (momentum-driven, against buoyancy force) | 
 monsoons, tropical cyclones | | | 
 center of mass (of a convecting layer: gravity tries to lower it) | | | 
 heat engine  | | | 
-numerical weather prediction (NWP): the whole enterprise | | | 
+numerical weather prediction (NWP) | | | 
 data assimilation (to "initialize" NWP) | | | 
 measurement errors  | | | 
 systematic errors  | | | 
 random errors | | | 
 initial conditions | | | 
-uncertainty (or errors): CAREFUL! MANY FORMS/KINDS/MEANINGS  | | | 
+uncertainty (or errors) | | CAREFUL! MANY FORMS/KINDS/MEANINGS  | 
 limit of deterministic predictability (butterfly effect)  | | | 
-verifying analysis (taken as the "right answer" for forecasts to aspire to) | | | 
+verifying analysis | | taken as the "right answer" for forecasts to aspire to) | 
 monotonically | | | 
 attractor | | | 
 numerical integration | | | 
 identity (of a thing that can be tracked over time) | | | 
 ensemble, members, ensemble mean, ensemble spread  | | | 
-perturbed initial conditions (one way to initialize an ensemble) | | | 
-multi-model (another way to make ensemble, include "structural" uncertainty | | | 
+perturbed initial conditions | | (one way to initialize an ensemble) | 
+multi-model ensemble | | (another way to make ensemble, includes "structural" uncertainty) | 
 sector, hemisphere (of the globe)  | | | 
 credibility, veracity, verismilitude, accuracy, correctness, skill | | | 
 precision (as opposed to accuracy) | | | 
-irrotational vortex (tangential velocity inversely proportional to distance) | | | 
-streamfunction | | | 
 irrotational | | | 
-line integral around any closed loop that lies on a pressure surface | | | 
+nondivergent | | | 
+irrotational vortex | | (tangential velocity inversely proportional to distance) |
+streamfunction | |a scalar field that suffices to specify the entire vector field of a nondivergent flow | 
+line integral | | around a closed loop, often zero is the point of doing it | 
 circulation | | | 
 is conserved | | | 
 oscillate | | | 
