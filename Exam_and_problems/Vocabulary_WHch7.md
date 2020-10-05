@@ -4,8 +4,11 @@ Vocabulary item	| Symbol or term, units | Concept (words) | Concept (sketch)
 ----------------|---------------------- | --------------- | ---------------- 
 
 Kinematics | | Descriptions of vector field variations in space only (no time) | (arrows on a plane)
+
 streamlines, 3D or horizontal | | | 
+
 trajectories, 3D or horizontal  | | | 
+
 isotachs | | | 
 natural coordinates | | | 
 Curvature | | | 
@@ -305,4 +308,3 @@ saturation vapor pressure or mixing ratio or specific humidity | | |
 dry static energy s (conserved for unsaturated p changes, like potential temperature)  | | | 
 moist static energy h (" " " and saturated " ", like equivalent potential temperature) | | | 
 saturation MSE h_sat (if h(saturated parcel) > h_sat(env), then T_parcel > T_env (buoyant) | | | 
- | | | 
