@@ -653,3 +653,20 @@ is conserved
 oscillate
 propagate
 
+--- Key words about convection ---
+
+buoyancy (a force, g times a dimensionless density ratio)
+
+instability
+
+stable, stably stratified
+
+metastability, conditional instability
+
+dry static energy s (conserved for unsaturated p changes, like potential temperature) 
+
+moist static energy h (" " " and saturated " ", like equivalent potential temperature)
+
+saturation MSE h_sat (if h(saturated parcel) > h_sat(env), then T_parcel > T_env (buoyant)
+
+
