@@ -2,7 +2,7 @@
 
 Vocabulary item	| Symbol or term, units | Concept (words) | Concept (sketch) 
 ----------------|---------------------- | --------------- | ---------------- 
-Kinematics | | Descriptions of vector field variations in space only (no time) | (arrows on a plane)
+Kinematics | | Descriptions of vector field variations in space only (no time evolution, *not dynamics*) | (arrows on a plane)
 streamlines, 3D or horizontal | | | 
 trajectories, 3D or horizontal  | | | 
 isotachs | | | 
