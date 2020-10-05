@@ -663,6 +663,9 @@ stable, stably stratified
 
 metastability, conditional instability
 
+saturation vapor pressure or mixing ratio or specific humidity
+(know that it increases increasingly with T) 
+
 dry static energy s (conserved for unsaturated p changes, like potential temperature) 
 
 moist static energy h (" " " and saturated " ", like equivalent potential temperature)
