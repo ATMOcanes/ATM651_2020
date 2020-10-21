@@ -11,7 +11,7 @@ Aug 17-19	|Welcome, introductions. Physical units and quantities. W&H Chapter 1	
 28-30	| Vertical dimension and thermo: PV (**read 7.2.10**) as the ultimate conserved variable. Show its conversion to vorticity as stratosphere descends into troposphere. |The complete, formally closed set of primitive equations (PE). **Reading: through 7.3.5**. How do they operate for *hot air rising*? [ppt](https://github.com/ATMOcanes/ATM651_2020/tree/master/Class_sessions/2020-09-29%20PE%20view%20of%20how%20hot%20air%20rises), [HW3](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/HW3.PE_hotairrises.how.pdf) **due Monday 5 October**
 5-7 Oct	|**HW3 (due at midnight).** Look at upcoming exam (vocabulary review). | Wrap up Ch7. Consider all its conceptual questions 7.5. More vocab exam review. Budgets of equation sets: MERRA2. 
 12-14	|Exam review: vocabulary - form/units - concepts - sketches linkages | Exam review  
-19-21	| Exam| Vertical instability and moist convection diagrams. Word doc [assignment](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/HW4_MSEplots_soundings.docx); read book [explanation of conserved energy-mass diagrams](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/Chapter4_LiftedParcelBuoy.pdf).  Due next Monday. 
+19-21	| Exam| Vertical instability and moist convection diagrams. Word doc [assignment](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/HW4_MSEplots_soundings.docx); read book [explanation of conserved energy-mass diagrams](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/Chapter4_LiftedParcelBuoy.pdf).  Due next Monday, we will show everyone's examples in class. 
 26-28	| 	| 
 2-4 Nov	|	| 
 9-11	|	| 
