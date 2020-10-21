@@ -17,4 +17,4 @@ Aug 17-19	|Welcome, introductions. Physical units and quantities. W&H Chapter 1	
 9-11	|	| 
 16-18	|	|
 Nov 23	|(Labor day makeup)	|(xxx Classes Ended Monday xxx)
-30-4 Dec	|      Finals (presentations)  Online, by arrangement | Finals (presentations)  Online, by arrangement
+30-4 Dec	|       | Finals (presentations)  **11am Friday Dec 4 is our scheduled time** Requests to change will be entertained.
