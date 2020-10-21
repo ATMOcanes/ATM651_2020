@@ -7,6 +7,6 @@ About 12 hours of work directed at a topic or tool of your choice: learning, pre
   * Weather phenomenon with a dynamical aspect 
   * Advanced dynamical issue (quasi-geostrophic theory, etc.) 
 
-* [COMEt/Met]() modules of level 2 or higher totaling enough hours: quizzes sent to me (they are not easy!), and report to class on new things you learned.
+* [COMEt/MetEd](https://www.meted.ucar.edu/index.php) modules of level 2 or higher totaling enough hours: quizzes sent to me (they are not easy!), and report to class on new things you learned.
 
-* 
+* [Display and discuss MERRA2 Budgets (Appendix)](https://gmao.gsfc.nasa.gov/pubs/docs/Bosilovich785.pdf) of the equations underpinning some atmospheric event: hourly for a weather event, monthly for climate. Vertical integrals, 3D terms. We will do a Lab on this for the heat budget soon, learning about all the kinds of atmospheric heating processes. 
