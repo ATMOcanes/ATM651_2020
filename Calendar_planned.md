@@ -12,7 +12,7 @@ Aug 17-19	|Welcome, introductions. Physical units and quantities. W&H Chapter 1	
 5-7 Oct	|**HW3 (due at midnight).** Look at upcoming exam (vocabulary review). | Wrap up Ch7. Consider all its conceptual questions 7.5. More vocab exam review. Budgets of equation sets: MERRA2. 
 12-14	|Exam review: vocabulary - form/units - concepts - sketches linkages | Exam review  
 19-21	| Exam| Some [Project Ideas](https://github.com/ATMOcanes/ATM651_2020/blob/master/ProjectIdeas.md). Conserved variables and their use in the logic of vertical instability for moist convection. Word doc [assignment](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/HW4_MSEplots_soundings.docx); read book [explanation of conserved energy-mass diagrams](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/Chapter4_LiftedParcelBuoy.pdf).  Due next Monday, we will show everyone's examples in class. 
-26-28	| 	| 
+26-28	|  go over people's homeworks (soundings), discussion	| WH ch8 midlatitude cyclone [ppt](https://github.com/ATMOcanes/ATM651_2020/blob/master/Wallace_Hobbs_ch8_Nov10_storm.ppt), and **assign for Mon** [LMT5.4 - Sandy case](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/Heatingrates_MERRA_LMTpages.pdf)
 2-4 Nov	|	| 
 9-11	|	| 
 16-18	|	|
