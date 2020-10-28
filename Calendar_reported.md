@@ -12,7 +12,7 @@ Aug 17-19 |Welcome, introductions, syllabus. Software. MKS units. Assign to read
 5-7 Oct	| HW3 problems discuss, [annotate](https://github.com/ATMOcanes/ATM651_2020/tree/master/Class_sessions/2020-10-05%20HW3%20primitive%20eqs%20hot%20air%20rises%20), and look at quantitative-problem [solutions](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/HW6.PE_hotairrises.solns.pdf)| HW3 handed back; [whiteboard on how xypt coordinate PE equations differ from xyzt, and vocab review screenshots.](https://github.com/ATMOcanes/ATM651_2020/tree/master/Class_sessions/2020-10-07%20PE%20wrapup%2C%20vocab%20study%20)
 12-14	|Review was too slow, but images are now in vocab review link from last Weds.| See "reviewdraft" document with green text for keywords, and study PE memorization exam item 
 19-21	|Exam in class| Static Energy conservations [whiteboard](https://github.com/ATMOcanes/ATM651_2020/tree/master/Class_sessions/2020-10-21%20Static%20energy%20conservation%20and%20soundings) and assign balloon-sounding instability assignment
-26-28	||
+26-28	|Balloon-soundings screen shares and discussion. Current weather (development of Zeta) discussion. [Video](https://miami.zoom.us/rec/share/-fyP6ytlqBzZVfaaNipqY20i7rl0RQvbe6VwgDGt7IR0H2pRbmi9oAm8SuagZGk.rRxsu1ZStmSw6mSI), Passcode in email| Midlatitude cyclone from Wallace-Hobbs Ch8 [ppt](https://github.com/ATMOcanes/ATM651_2020/blob/master/Wallace_Hobbs_ch8_Nov10_storm.ppt) and **assign for Mon** [LMT5.4 - Sandy case](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/Heatingrates_MERRA_LMTpages.pdf)
 2-4 Nov	||
 9-11	||
 16-18	||
