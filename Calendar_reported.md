@@ -16,5 +16,5 @@ Aug 17-19 |Welcome, introductions, syllabus. Software. MKS units. Assign to read
 2-4 Nov	||
 9-11	||
 16-18	||
-Nov 23	| Thankgiving week (Labor Day makeup session Monday... I'll be available for project consultation) | Thankgiving week 
+Nov 23	| Thankgiving week Monday avail for project consulting) | Thankgiving week 
 4 Dec|| 4 Dec 11-13:30 is our finals slot (project presentations, about 25 minutes each)
