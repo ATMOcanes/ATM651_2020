@@ -13,7 +13,7 @@ Aug 17-19 |Welcome, introductions, syllabus. Software. MKS units. Assign to read
 12-14	|Review was too slow, but images are now in vocab review link from last Weds.| See "reviewdraft" document with green text for keywords, and study PE memorization exam item 
 19-21	|Exam in class| Static Energy conservations [whiteboard](https://github.com/ATMOcanes/ATM651_2020/tree/master/Class_sessions/2020-10-21%20Static%20energy%20conservation%20and%20soundings) and assign balloon-sounding instability assignment
 26-28	|Balloon-soundings screen shares and discussion. Current weather (development of Zeta) discussion. [Video](https://miami.zoom.us/rec/share/-fyP6ytlqBzZVfaaNipqY20i7rl0RQvbe6VwgDGt7IR0H2pRbmi9oAm8SuagZGk.rRxsu1ZStmSw6mSI), Passcode in email| Midlatitude cyclone from Wallace-Hobbs Ch8 [ppt](https://github.com/ATMOcanes/ATM651_2020/blob/master/Wallace_Hobbs_ch8_Nov10_storm.ppt) and **assign for Mon** [LMT5.4 - Sandy case](https://github.com/ATMOcanes/ATM651_2020/blob/master/Exam_and_problems/Heatingrates_MERRA_LMTpages.pdf)
-2-4 Nov	| MERRA heat budget. [Analysis tendency](https://github.com/ATMOcanes/ATM651_2020/blob/master/Class_sessions/2020-11-02_LMT5.4_Tbudget_and_AT/Whiteboard%5B1%5D.pdf), and [PBL top cooling](https://github.com/ATMOcanes/ATM651_2020/tree/master/Logic)| 
+2-4 Nov	| MERRA heat budget, student assignment shows and tells. Key points: [Analysis tendency](https://github.com/ATMOcanes/ATM651_2020/blob/master/Class_sessions/2020-11-02_LMT5.4_Tbudget_and_AT/Whiteboard%5B1%5D.pdf), and [PBL top cooling](https://github.com/ATMOcanes/ATM651_2020/tree/master/Logic)| 
 9-11	||
 16-18	||
 Nov 23	| Thankgiving week Monday avail for project consulting) | Thankgiving week 
